@@ -2,7 +2,7 @@
 name = "bench"
 version = "1.0.0"
 description = "Motoko benchmarking with Mops"
-repository = "https://github.com/ZenVoich/bench"
+repository = "https://github.com/dfinity/mops-bench"
 keywords = [ "bench", "benchmark", "performance", "profiling", "mops" ]
 license = "MIT"
 
